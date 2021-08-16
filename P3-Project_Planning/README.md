@@ -1,7 +1,9 @@
 # Project Planning
+
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
+
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ## Submission Instructions
@@ -10,10 +12,16 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+Markup : _ liftoff-assignments\P3-Project_Planning\Landing-Page.png
+_ liftoff-assignments\P3-Project_Planning\My-Haves.png \* liftoff-assignments\P3-Project_Planning\My-Needs.png
+
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello](https://trello.com/b/cw3xqQ13/liftoffaug2021a)
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+[Github](https://github.com/LaunchCodeLiftoffProjects/gab-group-a)
