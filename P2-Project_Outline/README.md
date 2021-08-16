@@ -7,12 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Helping hands will be a "mutual aid" application that will enable users to both list and request their needs whether it be a service or material item.
 ### Features
-Include Features here
+User Login: The unregistered user will be able to create an account in which they can log in/out of as well as modify.
+Search: The user will be able to search through a list of users and find their specific needs.
+Create Post: The user will be able to post their haves and needs.
 ### Technologies
-Include Technologies here
+React, Material UI, Spring, MySql
 ### What I'll Have to Learn
-Include what you will need to learn here
+React, Material UI
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/cw3xqQ13/liftoffaug2021a
